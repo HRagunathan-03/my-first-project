@@ -2,10 +2,15 @@ body {
     background-color: lightblue;
     background-image: url("../images/forest-trees.jpg")
 }
+
 h2 {
     color: orangered;
 }
 
-p{
+p {
     font-weight: bold;
+}
+
+.text-center {
+    text-align: center
 }
