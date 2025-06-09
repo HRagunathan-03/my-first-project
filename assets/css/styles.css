@@ -2,3 +2,6 @@ body {
     background-color: lightblue;
     background-image: url("../images/forest-trees.jpg")
 }
+h2 {
+    color: orangered;
+}
